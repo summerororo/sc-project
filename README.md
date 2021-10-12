@@ -9,7 +9,7 @@ Watch my *[DEMO VIDEOS!](https://reurl.cc/jgvz0q)*
   * python semantics & syntax
 * [Weather Master](https://drive.google.com/file/d/1C1Y0okeM07AOEWLosXS0O2uB7R5OBfrn/view?usp=sharing)
   * python semantics & syntax
-* [MyPhotoshop](https://drive.google.com/file/d/1C1Y0okeM07AOEWLosXS0O2uB7R5OBfrn/view?usp=sharing)
+* [MyPhotoshop](https://drive.google.com/file/d/1rDD95J5L0mLC2dp70acd0UNj_fT7yEIR/view?usp=sharing)
   * image processing
 * [Pedestrian Removing Application](https://drive.google.com/file/d/1eAWnhGBKr2dDhhOYJmegq6vf9AvHTHiP/view?usp=sharing)
   * image processing
